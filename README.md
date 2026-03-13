@@ -24,3 +24,17 @@ Streakify also analyzes user progress by calculating productivity metrics such a
 # Setup Steps
 
 ### 1. Clone the repository
+
+```
+git clone https://github.com/PRAVEENVP2255/Streakify.git
+cd STREAKIFY
+```
+
+
+### 2. Create PostgreSQL Database
+
+Create a database named:
+
+```
+streakify
+```
