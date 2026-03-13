@@ -1,56 +1,26 @@
-Streakify - Habit Tracking MVP
-Help people build life-changing habits through streak psychology and smart tracking.
+# Streakify – Habit Tracking Application
 
-1. Setup Instructions
-   Prerequisites
-   Java 17
+### Overview
 
-Maven 3.x
+Streakify is a backend-driven habit tracking application designed to help users build consistent habits and improve productivity by maintaining daily streaks. The system allows users to create habits, log their daily progress, and track their current and longest streaks.
 
-PostgreSQL 15+
+The application provides a structured backend using **Spring Boot** and **PostgreSQL**, enabling efficient habit tracking and analytics through RESTful APIs. The project follows a **layered architecture** to ensure clean code organization, scalability, and maintainability.
 
-Database Setup
-Open your PostgreSQL terminal or pgAdmin.
+Streakify also analyzes user progress by calculating productivity metrics such as **current streak**, **longest streak**, and **weekly consistency**, providing users with insights into their habit-building performance.
 
-Create the database: CREATE DATABASE streakify_db;.
+---
 
-The tables will be automatically created on the first run due to ddl-auto=update.
+# Tech Stack
 
-Running the Application
-Navigate to the root directory and run:
+* Java
+* Spring Boot
+* PostgreSQL
+* JPA / Hibernate
+* Maven
+* Postman
 
-Bash
-./mvnw spring-boot:run
-The server will start at http://localhost:8080.
+---
 
-2. API Endpoints
-   User Management
-   POST /users: Register a new user.
+# Setup Steps
 
-GET /users/{id}: View user profile.
-
-Habit Management
-POST /habits: Create a new habit.
-
-GET /users/{userId}/habits: View all habits for a specific user.
-
-Habit Logs & Streaks
-POST /habits/{habitId}/logs: Log habit completion (Automatic User Identification).
-
-GET /habits/{habitId}/logs: View logs in descending order.
-
-GET /users/{userId}/dashboard: View productivity insights and consistency score.
-
-3. Business Rules Implemented
-   Validation: Prevents logging for future dates or dates before a habit was created.
-
-Duplicates: Restricts users to one log per habit per day.
-
-Ownership: Automatically links logs to the correct habit owner.
-
-4. Technical Stack
-   Backend: Spring Boot 4.0.2.
-
-Database: PostgreSQL.
-
-Tools: Lombok for clean code and Jakarta Validation for data integrity.
+### 1. Clone the repository
