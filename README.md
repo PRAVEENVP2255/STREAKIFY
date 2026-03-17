@@ -147,47 +147,58 @@ http://localhost:8080
 
 ### Create User
 
-<img width="1383" height="738" alt="Screenshot 2026-03-11 171142" src="https://github.com/user-attachments/assets/461b57a9-0592-49aa-bc8b-72719a2e1505" />
+<img width="1383" height="738" alt="Screenshot 2026-03-11 171142" src="https://github.com/user-attachments/assets/1f086dbd-e99e-49b7-94cd-11cf6e700925" />
+
 
 ### Get User
 
-<img width="1366" height="764" alt="Screenshot 2026-03-11 171617" src="https://github.com/user-attachments/assets/2f62fc55-f182-4df1-ab68-a3101a25a0c6" />
+<img width="1366" height="764" alt="Screenshot 2026-03-11 171617" src="https://github.com/user-attachments/assets/1ed6d3dd-925c-4d79-a4d2-cf199a2cc99f" />
+
 
 ### Delete User
 
-<img width="1382" height="666" alt="Screenshot 2026-03-11 171909" src="https://github.com/user-attachments/assets/7b7389cc-9158-4b55-9883-8d80091d269d" />
+<img width="1382" height="666" alt="Screenshot 2026-03-11 171909" src="https://github.com/user-attachments/assets/c1f3e86f-199e-46c7-9f28-79a8ff182061" />
+
 
 ### Create Habit
 
-<img width="1384" height="722" alt="Screenshot 2026-03-11 172701" src="https://github.com/user-attachments/assets/08474ef2-86ab-404f-8773-50f3ee08d139" />
+<img width="1384" height="722" alt="Screenshot 2026-03-11 172701" src="https://github.com/user-attachments/assets/c0f05714-bf43-4c01-8658-34c8e387e253" />
+
 
 ### Get User Habits
 
-<img width="1389" height="821" alt="Screenshot 2026-03-11 173703" src="https://github.com/user-attachments/assets/eeca4f60-7f39-4f7c-a296-07d52066b478" />
+<img width="1389" height="821" alt="Screenshot 2026-03-11 173703" src="https://github.com/user-attachments/assets/74016a99-7bad-4d49-9f48-ac11695ee14a" />
+
 
 ### Delete Habit
 
-<img width="1379" height="482" alt="Screenshot 2026-03-11 174750" src="https://github.com/user-attachments/assets/86add98f-88e5-411a-85f8-c6d1ce764fd3" />
+<img width="1379" height="482" alt="Screenshot 2026-03-11 174750" src="https://github.com/user-attachments/assets/4dfae5be-850f-4b02-9064-b6feb58d3bf7" />
+
 
 ### Log Habit
 
-<img width="1371" height="645" alt="Screenshot 2026-03-13 161434" src="https://github.com/user-attachments/assets/1f79f645-dc44-4087-aa61-968f30aad9c0" />
+<img width="1371" height="645" alt="Screenshot 2026-03-13 161434" src="https://github.com/user-attachments/assets/29896ae1-2001-47aa-9d2b-545f1aa2dfaa" />
+
 
 ### Update Log
 
-<img width="1376" height="727" alt="Screenshot 2026-03-12 110157" src="https://github.com/user-attachments/assets/f4017c2c-f595-443b-aeab-5b8865f2b61d" />
+<img width="1376" height="727" alt="Screenshot 2026-03-12 110157" src="https://github.com/user-attachments/assets/23faa8a4-3e01-4685-9e4f-8e5a50fcd740" />
+
 
 ### View Habit Logs
 
-<img width="1376" height="812" alt="Screenshot 2026-03-12 121733" src="https://github.com/user-attachments/assets/c7b66930-fff9-4162-9f6a-830fc7571add" />
+<img width="1376" height="812" alt="Screenshot 2026-03-12 121733" src="https://github.com/user-attachments/assets/2ee63ddb-bf54-413c-9b67-ec94a6329777" />
+
 
 ### Fetch Streak
 
-<img width="1384" height="464" alt="Screenshot 2026-03-12 122604" src="https://github.com/user-attachments/assets/1a9628ad-1932-491d-ad50-e2b7afaaa136" />
+<img width="1384" height="464" alt="Screenshot 2026-03-12 122604" src="https://github.com/user-attachments/assets/10d11882-7041-411b-ae70-bae4501f6e27" />
+
 
 ### Dashboard
 
-<img width="1387" height="566" alt="Screenshot 2026-03-13 162443" src="https://github.com/user-attachments/assets/8cce0ffe-afaa-48e5-ac7c-2fb522ad5953" />
+<img width="1387" height="566" alt="Screenshot 2026-03-13 162443" src="https://github.com/user-attachments/assets/d1d7c03f-e5b9-4aa8-866f-5ffc8c35ad68" />
+
 
 
 
@@ -195,27 +206,33 @@ http://localhost:8080
 
 ### Duplicate Email
 
-<img width="1386" height="731" alt="Screenshot 2026-03-11 171338" src="https://github.com/user-attachments/assets/e8fb22c0-160a-46e1-82de-301c370d6bde" />
+<img width="1386" height="731" alt="Screenshot 2026-03-11 171338" src="https://github.com/user-attachments/assets/691e9f20-1337-496d-9fe4-d91517380edc" />
+
 
 ### Invalid Email
 
-<img width="1369" height="723" alt="Screenshot 2026-03-11 171455" src="https://github.com/user-attachments/assets/d4ed0c8c-f68b-42c2-a774-6b80470c952c" />
+<img width="1369" height="723" alt="Screenshot 2026-03-11 171455" src="https://github.com/user-attachments/assets/a57767cb-45d6-45a9-8cb5-de43c8519e09" />
+
 
 ### User Not Found
 
-<img width="1379" height="714" alt="Screenshot 2026-03-11 171706" src="https://github.com/user-attachments/assets/870a09b6-9808-4a5d-9b7b-aabeeaa85873" />
+<img width="1379" height="714" alt="Screenshot 2026-03-11 171706" src="https://github.com/user-attachments/assets/9874a8d5-cc38-47d3-b25d-ae13fbe4b72d" />
+
 
 ### Delete non-existing habit
 
-<img width="1373" height="578" alt="Screenshot 2026-03-12 102228" src="https://github.com/user-attachments/assets/e9c41a3a-5901-402f-94fa-386bee373ef8" />
+<img width="1373" height="578" alt="Screenshot 2026-03-12 102228" src="https://github.com/user-attachments/assets/454b44f8-e935-4ef5-ba65-8dfae0936597" />
+
 
 ### Future Date Not Allowed
 
-<img width="1377" height="657" alt="Screenshot 2026-03-12 104219" src="https://github.com/user-attachments/assets/d7881caf-e53d-4989-80ac-fcb29723e7d4" />
+<img width="1377" height="657" alt="Screenshot 2026-03-12 104219" src="https://github.com/user-attachments/assets/0ee1f073-e2a5-4b60-bbba-c104f2aa434e" />
+
 
 ### Duplicate Log
 
-<img width="1380" height="647" alt="Screenshot 2026-03-12 104436" src="https://github.com/user-attachments/assets/1b8eb89e-1dcf-4557-a973-20411a4c7442" />
+<img width="1380" height="647" alt="Screenshot 2026-03-12 104436" src="https://github.com/user-attachments/assets/5ced6951-2ecf-4ca7-8462-697e77038d4e" />
+
 
 
 
