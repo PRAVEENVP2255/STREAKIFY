@@ -1,8 +1,7 @@
 HELP.md
-target/
+**/target/
+*.class
 .mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 
 ### STS ###
 .apt_generated
@@ -32,9 +31,27 @@ build/
 ### VS Code ###
 .vscode/
 
-### Spring Boot local config ###
-
+### Spring config (local only) ###
 /src/main/resources/application.properties
 /src/main/resources/application-*.properties
 !/src/main/resources/application-example.properties
 
+### Logs ###
+*.log
+logs/
+
+### Environment / Secrets ###
+.env
+.env.*
+*.local
+
+### OS generated files ###
+.DS_Store
+Thumbs.db
+
+### Packaged artifacts ###
+*.jar
+*.war
+*.ear
+!mvnw
+!mvnw.cmd
