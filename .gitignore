@@ -34,4 +34,7 @@ build/
 
 ### Spring Boot local config ###
 
-src/main/resources/application.properties
+/src/main/resources/application.properties
+/src/main/resources/application-*.properties
+!/src/main/resources/application-example.properties
+
